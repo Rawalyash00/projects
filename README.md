@@ -8,9 +8,9 @@
 
 ## Work Experience
 **Data Analyst @ ArcGate (_August 2024 - Present_)**
-●	Optimized SQL queries for DoorDash revenue analysis, reducing execution time by 40% (from 5 to 3 minutes) and enhancing data driven decision-making.
-●	Created 15 Tableau dashboards used by 200+ employees daily, increasing data accessibility by 75% and improving understanding of key metrics.
-●	Streamlined ETL processes, cutting data processing time by 30% and boosting data accuracy by 25% for more reliable revenue reporting
+-    Optimized SQL queries for DoorDash revenue analysis, reducing execution time by 40% (from 5 to 3 minutes) and enhancing data driven decision-making.
+-    Created 15 Tableau dashboards used by 200+ employees daily, increasing data accessibility by 75% and improving understanding of key metrics.
+-	Streamlined ETL processes, cutting data processing time by 30% and boosting data accuracy by 25% for more reliable revenue reporting
 
 **DATA ANALYTICS TRAINEE @ MedTourEasy (_April 2024 – May 2024_)**
     ●	Completed a 4-week intensive Data Analytics training, mastering data cleaning, exploration, analysis, and visualization techniques to inform data-driven decisions.
