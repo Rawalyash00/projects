@@ -13,8 +13,8 @@
 -	Streamlined ETL processes, cutting data processing time by 30% and boosting data accuracy by 25% for more reliable revenue reporting
 
 **DATA ANALYTICS TRAINEE @ MedTourEasy (_April 2024 – May 2024_)**
-    ●	Completed a 4-week intensive Data Analytics training, mastering data cleaning, exploration, analysis, and visualization techniques to inform data-driven decisions.
-●	Completed intensive training in SQL, Tableau, and R; analyzed 1 million+ data points to streamline reporting processes while ensuring ethical guidelines were maintained for responsible data usage across all visualizations..
+-    Completed a 4-week intensive Data Analytics training, mastering data cleaning, exploration, analysis, and visualization techniques to inform data-driven decisions.
+-    Completed intensive training in SQL, Tableau, and R; analyzed 1 million+ data points to streamline reporting processes while ensuring ethical guidelines were maintained for responsible data usage across all visualizations..
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
