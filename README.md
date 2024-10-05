@@ -8,7 +8,7 @@
 
 ## Projects
 ### SQL – SPOTIFY ADVANCED SQL PROJECT & QUERY OPTIMIZATION
-[Publication](https://github.com/yaashhrawal/Spotify-)
+[Code](https://github.com/yaashhrawal/Spotify-)
 
 -  Developed an end-to-end SQL project analyzing a Spotify dataset, normalizing data and performing complex queries.
 -  Implemented advanced SQL techniques including subqueries, window functions, and CTEs to extract valuable insights.
