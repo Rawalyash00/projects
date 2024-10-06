@@ -14,7 +14,7 @@
 -  Implemented advanced SQL techniques including subqueries, window functions, and CTEs to extract valuable insights.
 -	Optimized query performance through indexing, reducing execution time from 7ms to 0.153ms, demonstrating proficiency in database optimization.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](assets/spotify_logo.jpg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
